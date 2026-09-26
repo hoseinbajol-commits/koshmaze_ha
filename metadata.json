@@ -1,0 +1,6 @@
+{
+  "name": "خوشمزه‌ها | طعم اصیل خانگی و سنتی",
+  "description": "فروشگاه و مطبخ سنتی محصولات غذایی خانگی، رب انار دست‌ساز، ترشیجات هفت‌بیجار، سبزیجات تازه آماده‌سازی‌شده و سوغات اصیل ایرانی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
